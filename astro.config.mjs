@@ -3,5 +3,6 @@ import { defineConfig } from 'astro/config';
 
 // https://astro.build/config
 export default defineConfig({
-    site: 'https://jsardello.github.io'
+    site: 'https://jsardello.github.io',
+    base: 'astro-tutorial-2',
 });
